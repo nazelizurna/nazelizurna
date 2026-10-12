@@ -11,7 +11,7 @@ I'm a self-taught programmer who loves building open-source projects.
 ## GitHub Stats 🐹
 
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nazelizurna&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nazelizurna&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazelizurna&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 <!--
