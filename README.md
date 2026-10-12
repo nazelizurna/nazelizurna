@@ -1,10 +1,14 @@
 # Hi! It's Nazeli 👋
 
 I'm a self-taught programmer who loves building open-source projects.
-I'm currently learning Next.js and React Native.
 
 ## Tech Stack 🐧
-
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,go,cpp,md,html,css,react,nextjs,tailwind,express,sqlite,postgres&perline=14" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=redis,mongodb,docker,bun,nodejs,vite,linux,nginx,git,github,supabase,vscode&perline=14" />
+</p>
 
 ## GitHub Stats 🐹
 
