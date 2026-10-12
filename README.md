@@ -3,11 +3,9 @@
 I'm a self-taught programmer who loves building open-source projects.
 
 ## Tech Stack 🐧
+
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,go,cpp,md,html,css,react,nextjs,tailwind,express,sqlite,postgres&perline=14" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=redis,mongodb,docker,bun,nodejs,vite,linux,nginx,git,github,supabase,vscode&perline=14" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,go,html,css,react,nextjs,tailwind,supabase,mysql,nestjs&perline=12" />
 </p>
 
 ## GitHub Stats 🐹
