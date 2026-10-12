@@ -1,5 +1,17 @@
-## Hi there 👋
+# Hi! It's Nazeli 👋
 
+I'm a self-taught programmer who loves building open-source projects.
+I'm currently learning Next.js and React Native.
+
+## Tech Stack 🐧
+
+
+## GitHub Stats 🐹
+
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nazelizurna&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazelizurna&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 <!--
 **nazelizurna/nazelizurna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
