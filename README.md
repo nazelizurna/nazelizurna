@@ -1,6 +1,6 @@
 # Hi! It's Nazeli 👋
 
-I'm a self-taught programmer who loves building open-source projects.
+I'm a creative technologist from Armenia exploring the intersection of design, code, and ideas that deserve to exist.
 
 ## Tech Stack 🐧
 
