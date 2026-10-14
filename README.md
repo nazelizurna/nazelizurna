@@ -1,6 +1,6 @@
 # Hi! It's Nazeli 👋
 
-I'm a creative technologist from Armenia exploring the intersection of design, code, and ideas that deserve to exist.
+I'm a creative technologist from Armenia exploring the intersection of design, code, and whimsical ideas.
 
 ## Tech Stack 🐧
 
