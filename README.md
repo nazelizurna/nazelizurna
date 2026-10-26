@@ -1,14 +1,12 @@
-# Hi! It's Nazeli 👋
+## A creative technologist from Armenia exploring the intersection of design, data, code, and whimsical ideas.
 
-I'm a creative technologist from Armenia exploring the intersection of design, data, code, and whimsical ideas.
-
-## Tech Stack 🐧
+### Tech Stack 🐧
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,py,go,html,css,react,nextjs,tailwind,supabase,mysql,nestjs&perline=12" />
 </p>
 
-## GitHub Stats 🐹
+### GitHub Stats 🐹
 
 <p>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=nazelizurna&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true" />
