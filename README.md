@@ -1,4 +1,4 @@
-## A creative technologist from Armenia exploring the intersection of design, data, code, and whimsical ideas.
+A creative technologist from Armenia exploring the intersection of design, data, code, and whimsical ideas.
 
 ### Tech Stack 🐧
 
